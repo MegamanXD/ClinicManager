@@ -1,11 +1,11 @@
 ## Features
 
 _ Patient: id, name, birthdate, gender, address <br>
-_ Visit: date, time, problems (fever, headache etc)
+_ Visit: date, time, problems (fever, headache etc) <br>
 _ Prescription: drug name, quantity, dose (3 tablets per day.... ), how to use (after a meal...)
 _ Drug 
 
-### APIs simulated
+## APIs simulated
 
 _ Find patients by name/id/irthdate <br>
 _ Find visits by days/patient <br>
