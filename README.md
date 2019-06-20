@@ -2,8 +2,10 @@
 
 _ Patient: id, name, birthdate, gender, address <br>
 _ Visit: date, time, problems (fever, headache etc) <br>
-_ Prescription: drug name, quantity, dose (3 tablets per day.... ), how to use (after a meal...) <br>
-_ Drug 
+_ Drug: name, quantity, dose (3 tablets per day.... ), how to use (after a meal...) <br>
+_ Prescription: list of drugs, visit <br>
+_ CRUD & File IO for all of the above
+
 
 ## APIs simulated
 
@@ -12,4 +14,4 @@ _ Find visits by days/patient <br>
 _ Print reports: number of visits per day, number of drugs prescribed
 _________________________________________________________________________________________________________________________________________
 ## Assignment from
-Myself
+Myself, to prepare for Software Architecture: Design & Implementation course
