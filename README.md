@@ -11,7 +11,7 @@ _ CRUD & File IO for all of the above
 
 _ Find patients by name/id/irthdate <br>
 _ Find visits by days/patient <br>
-_ Print reports: number of visits per day, number of drugs prescribed
+_ Print reports of: number of visits per day, number of drugs prescribed
 _________________________________________________________________________________________________________________________________________
 ## Assignment from
 Myself, to prepare for Software Architecture: Design & Implementation course
