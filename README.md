@@ -2,7 +2,7 @@
 
 _ Patient: id, name, birthdate, gender, address <br>
 _ Visit: date, time, problems (fever, headache etc) <br>
-_ Prescription: drug name, quantity, dose (3 tablets per day.... ), how to use (after a meal...)
+_ Prescription: drug name, quantity, dose (3 tablets per day.... ), how to use (after a meal...) <br>
 _ Drug 
 
 ## APIs simulated
